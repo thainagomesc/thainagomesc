@@ -66,14 +66,6 @@ Transformo problemas reais em soluções práticas através de tecnologia e desi
 />
 <img 
     align="center" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="center" 
     alt="MongoDB" 
     title="MongoDB"
     width="30px" 
